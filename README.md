@@ -2,7 +2,8 @@
 
 打开 `index.html` 即可进入可漫游的四牌楼校园：11 处重点建筑、3 条主题路线、校史时间线，以及大礼堂、图书馆的室内空间示意。
 
-**在线体验：** https://modelscope.cn/studios/zxy615/seu-sipailou-3d
+**在线体验（GitHub Pages）：** https://zxyymx213253830-glitch.github.io/seu-sipailou-3d/  
+**ModelScope 镜像：** https://modelscope.cn/studios/zxy615/seu-sipailou-3d
 
 ![首页](images/screenshots/final-01-home.png)
 
